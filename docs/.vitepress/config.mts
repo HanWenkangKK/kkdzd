@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/kkdzd/',
   title: "框框的洲店",
   description: "三角洲辅助软件店官网",
   themeConfig: {
