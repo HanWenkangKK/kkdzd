@@ -13,7 +13,7 @@ export default defineConfig({
         text: '产品',
         items: [
           { text: '框框的扫货机', link: '/kk_trader/kk_trader_summary' },
-          { text: '框框的滚仓机', link: '/kk_roll_single/kk_roll_single_summary' },
+          { text: '框框的滚仓机（单端）', link: '/kk_roll_single/kk_roll_single_summary' },
         ]
       },
     ],
@@ -37,14 +37,23 @@ export default defineConfig({
           ]
         },
       ],
-      // '/kk_roll_single/': [
-      //   {
-      //     text: '框框的滚仓机(单端)',
-      //     items: [
-      //       { text: '简介', link: '/kk_roll_single/kk_roll_single_summary' },
-      //     ]
-      //   }
-      // ],
+      '/kk_roll_single/': [
+        {
+          text: '框框的滚仓机(单端)',
+          items: [
+            { text: '简介', link: '/kk_roll_single/kk_roll_single_summary' },
+            { text: '使用教程', link: '/kk_roll_single/kk_roll_single_guide' },
+            // { text: '常见问题', link: '/kk_roll_single/kk_roll_single_faq' },
+            { text: '下载与更新', link: '/kk_roll_single/kk_roll_single_download' },
+          ]
+        },
+        {
+          text: '帮助中心',
+          items: [
+            { text: '加群交流', link: '/kk_trader/kk_trader_addQQ' },
+          ]
+        },
+      ],
     },
 
     socialLinks: [
