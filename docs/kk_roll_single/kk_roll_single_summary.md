@@ -2,7 +2,7 @@
 
 在配装方案之间来回切换，当刷到低价时自动购买。
 
-<video src="/videos/扫货机简介视频.mp4" controls width="100%"></video>
+<!-- <video src="/videos/扫货机简介视频.mp4" controls width="100%"></video> -->
 
 ## 软件用途
 
