@@ -26,18 +26,18 @@
 ### 游戏配装页面设置
 来到游戏主页面，选择一个地图，使得画面右下角出现**配装**和**出发**字样。
 
-<img src="/images/kk_rolling_single/主页面地图选择.png" alt="Pulpit rock" width="600" height="228">
+<img src="/images/kk_rolling_single/主页面地图选择.jpg" alt="Pulpit rock" width="600" height="228">
 点击配装进入配装页面，点击“L”键进入配装方案界面。
 
-<img src="/images/kk_rolling_single/配装页面.png" alt="Pulpit rock" width="600" height="228">
-<img src="/images/kk_rolling_single/配装方案页面.png" alt="Pulpit rock" width="600" height="228">
+<img src="/images/kk_rolling_single/配装页面.jpg" alt="Pulpit rock" width="600" height="228">
+<img src="/images/kk_rolling_single/配装方案页面.jpg" alt="Pulpit rock" width="600" height="228">
 这里需要配置至少两个配装方案，软件会自动点击这两个配装方案来进行价格的刷新
 
-<img src="/images/kk_rolling_single/配装方案1.png" alt="Pulpit rock" width="600" height="228">
+<img src="/images/kk_rolling_single/配装方案1.jpg" alt="Pulpit rock" width="600" height="228">
 重要：如果在两个配装方案都配置相同的子弹，请确保两个方案的子弹数量不相同（相差半组即可），这会让两个方案的价格不同，用于确保价格识别的时机正确。
 
-<img src="/images/kk_rolling_single/配装方案2.png" alt="Pulpit rock" width="600" height="228">
-<img src="/images/kk_rolling_single/配装方案3.png" alt="Pulpit rock" width="600" height="228">
+<img src="/images/kk_rolling_single/配装方案2.jpg" alt="Pulpit rock" width="600" height="228">
+<img src="/images/kk_rolling_single/配装方案3.jpg" alt="Pulpit rock" width="600" height="228">
 
 ## 打开软件
 
@@ -89,4 +89,4 @@
 ## 启动脚本
 
 按照以上设置全部设置好之后，回到游戏的配装方案界面，按下F12即可运行脚本
-<img src="/images/kk_rolling_single/启动脚本.png" alt="Pulpit rock" width="600" height="228">
+<img src="/images/kk_rolling_single/启动脚本.jpg" alt="Pulpit rock" width="600" height="228">
